@@ -1,2 +1,9 @@
 # Practica2
-Segunda actividad
+-Objetivos de la red
+
+
+-Departamentos y dispositivos
+
+
+-Direccionaiento IP y roles del equipo
+
